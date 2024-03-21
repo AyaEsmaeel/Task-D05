@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\bin\Debug\net8.0\ExceptionTask.exe
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\bin\Debug\net8.0\ExceptionTask.deps.json
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\bin\Debug\net8.0\ExceptionTask.runtimeconfig.json
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\bin\Debug\net8.0\ExceptionTask.dll
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\bin\Debug\net8.0\ExceptionTask.pdb
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.dll
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\refint\ExceptionTask.dll
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.pdb
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ref\ExceptionTask.dll

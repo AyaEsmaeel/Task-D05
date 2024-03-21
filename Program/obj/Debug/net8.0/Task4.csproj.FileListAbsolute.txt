@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\Task4\Task4\New folder\bin\Debug\net8.0\Task4.exe
+C:\Users\DELL\source\repos\Task4\Task4\New folder\bin\Debug\net8.0\Task4.deps.json
+C:\Users\DELL\source\repos\Task4\Task4\New folder\bin\Debug\net8.0\Task4.runtimeconfig.json
+C:\Users\DELL\source\repos\Task4\Task4\New folder\bin\Debug\net8.0\Task4.dll
+C:\Users\DELL\source\repos\Task4\Task4\New folder\bin\Debug\net8.0\Task4.pdb
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.dll
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\refint\Task4.dll
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.pdb
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Task4\Task4\New folder\obj\Debug\net8.0\ref\Task4.dll
+D:\New folder\New folder\bin\Debug\net8.0\Task4.exe
+D:\New folder\New folder\bin\Debug\net8.0\Task4.deps.json
+D:\New folder\New folder\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\New folder\New folder\bin\Debug\net8.0\Task4.dll
+D:\New folder\New folder\bin\Debug\net8.0\Task4.pdb
+D:\New folder\New folder\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\New folder\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\New folder\New folder\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\New folder\New folder\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\obj\Debug\net8.0\Task4.dll
+D:\New folder\New folder\obj\Debug\net8.0\refint\Task4.dll
+D:\New folder\New folder\obj\Debug\net8.0\Task4.pdb
+D:\New folder\New folder\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\New folder\New folder\obj\Debug\net8.0\ref\Task4.dll
